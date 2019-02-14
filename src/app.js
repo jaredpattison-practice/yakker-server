@@ -1,10 +1,10 @@
 import React from 'react';
-import TrollJohn from './troll.js';
+import Troll from './troll.js';
 
 const App = props => {
   return (
     <React.Fragment>
-      <TrollJohn />
+      <Troll />
     </React.Fragment>
   );
 };
