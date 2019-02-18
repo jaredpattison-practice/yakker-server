@@ -7,9 +7,7 @@
 
 ### Links and Resources
 * [repo](https://github.com/jaredpattison/yakker-server)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+
 
 ### Modules
 #### `modulename.js`
