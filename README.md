@@ -6,6 +6,7 @@
 ### Author: Jared
 
 ### Links and Resources
+* [codesandbox](https://codesandbox.io/s/github/jaredpattison/yakker-server)
 * [repo](https://github.com/jaredpattison/yakker-server)
 
 
@@ -20,21 +21,9 @@ Usage Notes or examples
 Usage Notes or examples
 
 ### Setup
+
 #### `.env` requirements
-* `PORT` - 3000
-* `PORT` - connects to Q server on 3333
+* use in codesandbox
+* `PORT` - Q server must be running on local PORT 3333
 
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
 
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
-
-#### UML
-Link to an image of the UML for your application and response to events
